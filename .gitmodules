@@ -1,0 +1,3 @@
+[submodule "themes/nickel2lightbi"]
+	path = themes/nickel2lightbi
+	url = git@github.com:nickel2sulfate/nickel2lightbi.git
